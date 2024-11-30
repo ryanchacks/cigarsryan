@@ -16,7 +16,8 @@ Responsive design to ensure compatibility across devices.
 
 The website also integrates backend functionality for secure user authentication and order management, providing a seamless shopping experience.
 
-----------------------------------------------------------------------------Features
+----------------------------------------------------------------------------
+Features
 
 Elegant UI Design:
 Cream, brown, white, and gold color scheme reflecting the luxury of cigars.
@@ -39,7 +40,8 @@ Database Integration:
 Efficient data management for users, products, and orders.
 
 
------------------------------------------------------------------------------Tools and Technologies
+-----------------------------------------------------------------------------
+Tools and Technologies
 
 Frontend:
 
@@ -64,7 +66,8 @@ Version Control:
 
 Git/GitHub: For source code management and collaboration.
 
------------------------------------------------------------------------------Installation and Usage
+-----------------------------------------------------------------------------
+Installation and Usage
 
 Clone the repository:
 git clone https://github.com/your-repo/ryan-co-cigars.git
